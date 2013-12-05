@@ -3,12 +3,12 @@
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.pocketfiction.mobileempire"
 	versionCode 	= "10">
-	version 	= "0.5.0">
+	version 	= "1.0.0">
 
 	<name>MobileEmpire</name>
 
 	<description>
-		A mobile platform Wolfpack Empire client
+		A Wolfpack Empire client for mobile devices
 	</description>
 
 	<author href="https://empiredirectory.net"
